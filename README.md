@@ -4,8 +4,7 @@
 DMSP:https://www.ngdc.noaa.gov/eog/download.html  
 VIIRS:https://eogdata.mines.edu/products/vnl/  
 
-夜光量提取  
-ArcMap10.8.1  
+夜光量提取 ArcMap10.8.1  
 1.设置默认地理数据库  
 2.以表格显示分区统计  
 3.表转excel  
